@@ -103,6 +103,6 @@ The best match will pop up as below!
 ## Role in Development
 
 My name is Alex I am a bootcamp student whose portfolio can be found
-[here.]( https://alexsamalot19.github.io/Samalot-Alexander-Portfolio/)
+[here]( https://alexsamalot19.github.io/Samalot-Alexander-Portfolio/).
 
-I designed this app using existing APIs and packages listed in the **This App Utilizes** section. I used Express to handle routing. The site is deployed to Heroku [here.](https://friendfinder987.herokuapp.com/).
+I designed this app using existing APIs and packages listed in the **This App Utilizes** section. I used Express to handle routing. The site is deployed to Heroku [here](https://friendfinder987.herokuapp.com/).
