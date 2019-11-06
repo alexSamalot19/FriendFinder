@@ -90,6 +90,10 @@ The best match will pop up as below!
 
 ![Results](assets/images/Results.png)
 
+Then the user is added to the database. So if Jerry tries again he will get himself!
+
+![Repeat](assets/images/Repeat.png)
+
 ## This App Utilizes
 
    * [Express](https://www.npmjs.com/package/express)
